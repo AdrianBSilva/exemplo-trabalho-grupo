@@ -11,6 +11,7 @@ namespace NossaAplicacao
         static void Main(string[] args)
         {
             Console.WriteLine("EU \"Adrian\" quero imprimir");
+            Console.WriteLine("Eu \"Lucas\" mandei imprimir");
         }
     }
 }
